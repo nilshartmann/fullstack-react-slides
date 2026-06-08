@@ -32,3 +32,20 @@ liegt im dauerhaften `schritte`-Worktree:
 `../huetly-beispiel-app/huetly-worktrees/schritte`. Wird der echte Demo-Code zum
 Abgleich mit den Folien gebraucht, diesen Worktree dazuholen:
 `/add-dir ../huetly-beispiel-app/huetly-worktrees/schritte`.
+
+## TODO
+
+Bitte lies auch immer die `TODO.md`-Datei ein. Der Name ist leicht irreführend, die Datei enthält nicht nur TODOs, sondern auch Kontext, Ideen und Themen, die eventuell umgesetzt werden sollen.
+
+## Rückfragen
+
+- Bei Rückfragen **niemals** das Tool `AskUserQuestion` verwenden — auch nicht für
+  Auswahl-/Entscheidungsfragen. Rückfragen **immer** als Freitext stellen, eine
+  Frage pro Turn mit deiner Empfehlung + Begründung.
+- Wenn eine Antwort von mir ebenfalls eine Frage enthält, beantworte die Frage und lass dir bestätigen, dass die Antwort ausreichend war. Erst dann mit der nächsten Frage weiter machen.
+- Wissenslücken: nachfragen, nicht annehmen. Was sich aus Code/Docs klären lässt → dort nachlesen statt fragen.
+
+## Commits
+
+- Ich committe **immer** selbst. Wenn ich dich **explizit** bitte zu committen: einzeilige deutschsprachige Commit-Message. **Ohne** Co-Authored-by (oder andere) Angaben.
+
